@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnActivityResult</string>
+    <string name="ButtonOne_Txt">Go to Second Activity</string>
+    <string name="ButtonTwo_Txt">Go to First Activity</string>
+</resources>
